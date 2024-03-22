@@ -59,7 +59,7 @@ While these insights shed light on general associations, a more comprehensive an
 Additionally, further investigations could explore hypotheses such as the impact of age and smoking on heart disease diagnosis, as well as the potential correlation between reduced serum creatinine and decreased ejection fraction leading to increased heart disease diagnoses.
 
 
-### Portfolio Index
+## Portfolio Index
 
 1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
 
