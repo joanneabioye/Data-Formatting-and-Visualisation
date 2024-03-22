@@ -58,3 +58,17 @@ Out of 105 females, 34 had heart disease (32%) and 71 did not have heart disease
 While these insights shed light on general associations, a more comprehensive analysis incorporating factors like medication usage, ethnicity, diet, genetics, BMI, fitness level, and diabetes type, alongside balanced gender representation, is necessary for robust conclusions.
 Additionally, further investigations could explore hypotheses such as the impact of age and smoking on heart disease diagnosis, as well as the potential correlation between reduced serum creatinine and decreased ejection fraction leading to increased heart disease diagnoses.
 
+
+### Portfolio Index
+
+1. [Value of Data](https://github.com/joanneabioye/Value-of-Data)
+
+2. [Sourcing Data](https://github.com/joanneabioye/Sourcing-Data)
+
+3. [Data Analysis](https://github.com/joanneabioye/Data-Analysis/blob/main/README.md)
+
+4. Data Formatting and Visualisation
+
+5. [Dashboarding in Power BI](https://github.com/joanneabioye/Dashboarding-in-Power-BI/blob/main/README.md)
+
+6. [Storytelling](https://github.com/joanneabioye/Storytelling/blob/main/README.md)
